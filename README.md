@@ -10,7 +10,10 @@ financial or economic data, and lately reinforcement learning.
 - [kosdaq-zombie-firm-prediction](https://github.com/jwy0227-gif/kosdaq-zombie-firm-prediction) - predicting zombie firms on KOSDAQ two years ahead (logistic + XGBoost stacking)
 - [bok-monetary-policy-competition-2026](https://github.com/jwy0227-gif/bok-monetary-policy-competition-2026) - data and SVAR work for the Bank of Korea Monetary Policy Competition (3rd place, Seoul regional round)
 - [rainfall-waterborne-disease](https://github.com/jwy0227-gif/rainfall-waterborne-disease) - does heavy rain increase waterborne infections? weekly time-series models (KUBIG team project)
-- [conflict-prediction](https://github.com/jwy0227-gif/conflict-prediction) - inter-state conflict prediction with GDELT and ACLED (in progress)
+
+**Team projects**
+
+- [KUBIG_Conference-team-4](https://github.com/Hong-Junki/KUBIG_Conference-team-4) - early warning system for armed conflict onset in 58 countries from GDELT news and market data, with a [live dashboard](https://hong-junki.github.io/KUBIG_Conference-team-4/). I worked on the scoring pipeline (GitHub Actions, BigQuery, Supabase).
 
 **Tools:** Python (pandas, NumPy, scikit-learn, XGBoost, LightGBM, statsmodels), Jupyter / Colab, Excel
 
