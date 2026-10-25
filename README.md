@@ -2,7 +2,7 @@
 
 I study Statistics and History at Korea University (class of 2028) and I'm a member of KUBIG, the
 AI and data science society at KU. Most of what I work on is modeling with time series and
-financial or economic data, and lately reinforcement learning. I've also worked for HDR(Hyundai Robotics) as a Palantir Implementation Intern. I'm currently studying at UCSD as an exchange student, joined the undergraduate research team @ ERL.
+financial or economic data, and lately reinforcement learning. I'm currently studying at UCSD as an exchange student, joined the undergraduate research team @ ERL.
 
 **Projects**
 
