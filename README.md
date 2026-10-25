@@ -2,7 +2,7 @@
 
 I study Statistics and History at Korea University (class of 2028) and I'm a member of KUBIG, the
 AI and data science society at KU. Most of what I work on is modeling with time series and
-financial or economic data, and lately reinforcement learning.
+financial or economic data, and lately reinforcement learning. Currently studying at UCSD, undergraduate research team at ERL.
 
 **Projects**
 
