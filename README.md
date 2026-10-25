@@ -1,3 +1,5 @@
+<img src="assets/terminal.svg" width="100%" alt="terminal showing results from my projects">
+
 ### Hi, I'm Jiwon
 
 I study Statistics and History at Korea University (class of 2028) and I'm a member of KUBIG, the
